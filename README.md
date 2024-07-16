@@ -1,0 +1,1 @@
+# CleanArchitectureCQRSMediatRNet8
